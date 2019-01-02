@@ -1,4 +1,4 @@
-# Pre-work - Tippy
+# Tic-Tac-Toe
 
 Final Project using Python's Turtle and Tkinter modules
 
@@ -6,9 +6,17 @@ Submitted by: Kevin Chen
 
 Time spent: 10 hours spent in total
 
+## Future Additions
+
+Currently, I am working on a version of ultimate tic-tac-toe.
+
+## User Stories
+
 The game is fully developed, including all the functions such as draw_board, do_user_move, do_computer_move, and check_game_over, with some helper functions used as well. The project meets the basic requirements such as the user placement (O) and computer placement (X) and declaration of a winner, and repeat of the game. While the game does adapt when you expand the screen, it starts to glitch as well.
 
 There are some artistic endeavors using turtle such as the color/shape of the grid, game pieces, and background. Some additional features include a smarter AI that attempts to occupy the corners and center areas. Additionally, there are other features that are implemented such as a tkinter screen for a score board and a more visually appealing UI. Regarding the implementation of the project, I used three classes: Board, Score, and Game to develop the game. I am currently satisfied with the state of the project because it has completed the basic functionality with additional features.
+
+## Notes
 
 The most challenging aspect of the assignment would be implementing the draw_board function because it took time and some math to figure out where to place the grid lines and how to draw the "X" and "O" on the screen. At the beginning a list of tuples, representing the location of each grid line, and the list of tuples, representing the indexes of point (grid line), were used to implement the draw_board function, but this approach was not effective and is repetitive. Therefore, a for loop was implemented to loop through the positions of the board. Another challenging aspect was implementing the score board because using the tkinter class took some time to understand and implement into the game.
 
