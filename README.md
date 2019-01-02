@@ -1,4 +1,4 @@
-# Tic-Tac-Toe
+# Pre-work - Tippy
 
 Final Project using Python's Turtle and Tkinter modules
 
