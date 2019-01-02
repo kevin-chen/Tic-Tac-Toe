@@ -2,8 +2,6 @@
 
 Final Project using Python's Turtle and Tkinter modules
 
-Submitted by: Kevin Chen
-
 Time spent: 10 hours spent in total
 
 ## Future Additions
