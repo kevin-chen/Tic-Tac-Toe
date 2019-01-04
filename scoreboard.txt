@@ -27,3 +27,20 @@ HIGH SCORE | Round: 7 | Bob WINS
 Player Score: 4
 Computer Score: 2
 
+NEW GAME | Round: 1 | X WINS
+Player Score: 0
+Computer Score: 1
+
+Round: 2 | X WINS
+Player Score: 0
+Computer Score: 2
+
+Round: 3 | X WINS
+Player Score: 0
+Computer Score: 3
+
+NEW GAME | Round: 1 | X WINS
+Player Score: 0
+Computer Score: 1
+
+NEW GAME | NEW GAME | NEW GAME | NEW GAME | 
